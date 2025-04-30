@@ -101,4 +101,8 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SujitYalmar/DSA/tree/master/2058-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SujitYalmar/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
