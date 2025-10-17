@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
@@ -28,6 +29,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/SujitYalmar/DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SujitYalmar/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SujitYalmar/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -53,6 +55,7 @@
 | [0027-remove-element](https://github.com/SujitYalmar/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SujitYalmar/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
 ## Stack
