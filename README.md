@@ -27,6 +27,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/SujitYalmar/DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -103,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/SujitYalmar/DSA/tree/master/0069-sqrtx) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
