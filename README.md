@@ -28,6 +28,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SujitYalmar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/SujitYalmar/DSA/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/SujitYalmar/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SujitYalmar/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
@@ -155,5 +156,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/SujitYalmar/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SujitYalmar/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
