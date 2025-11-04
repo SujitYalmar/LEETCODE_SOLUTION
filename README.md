@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SujitYalmar/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -118,6 +119,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SujitYalmar/DSA/tree/master/2058-concatenation-of-array) |
 ## Database
@@ -165,4 +167,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/SujitYalmar/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/SujitYalmar/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
