@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
+| [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SujitYalmar/DSA/tree/master/2058-concatenation-of-array) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 | [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SujitYalmar/DSA/tree/master/2058-concatenation-of-array) |
 ## Database
@@ -171,4 +173,5 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
