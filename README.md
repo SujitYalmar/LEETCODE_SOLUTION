@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/SujitYalmar/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -78,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SujitYalmar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/SujitYalmar/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SujitYalmar/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SujitYalmar/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujitYalmar/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -173,5 +175,6 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
