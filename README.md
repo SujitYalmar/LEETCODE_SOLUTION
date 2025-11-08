@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SujitYalmar/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SujitYalmar/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
@@ -49,6 +50,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SujitYalmar/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SujitYalmar/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SujitYalmar/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SujitYalmar/DSA/tree/master/0055-jump-game) |
 ## Math
 |  |
 | ------- |
