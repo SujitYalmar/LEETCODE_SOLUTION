@@ -20,6 +20,7 @@
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SujitYalmar/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SujitYalmar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SujitYalmar/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SujitYalmar/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
 ## Stack
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SujitYalmar/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/SujitYalmar/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/SujitYalmar/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/SujitYalmar/DSA/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
