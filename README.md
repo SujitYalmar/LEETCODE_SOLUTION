@@ -27,6 +27,7 @@
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1833-find-the-highest-altitude](https://github.com/SujitYalmar/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SujitYalmar/DSA/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -188,4 +189,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SujitYalmar/DSA/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/SujitYalmar/DSA/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
