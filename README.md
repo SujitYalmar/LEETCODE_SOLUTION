@@ -29,6 +29,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/SujitYalmar/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1833-find-the-highest-altitude](https://github.com/SujitYalmar/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/SujitYalmar/DSA/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SujitYalmar/DSA/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -192,4 +193,9 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SujitYalmar/DSA/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/SujitYalmar/DSA/tree/master/1833-find-the-highest-altitude) |
+| [1983-maximum-population-year](https://github.com/SujitYalmar/DSA/tree/master/1983-maximum-population-year) |
+## Counting
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/SujitYalmar/DSA/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
