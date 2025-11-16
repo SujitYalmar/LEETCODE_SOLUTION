@@ -30,6 +30,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1833-find-the-highest-altitude](https://github.com/SujitYalmar/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/SujitYalmar/DSA/tree/master/1983-maximum-population-year) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SujitYalmar/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/SujitYalmar/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/SujitYalmar/DSA/tree/master/2058-concatenation-of-array) |
 ## Binary Search
@@ -188,6 +189,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SujitYalmar/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Prefix Sum
 |  |
 | ------- |
