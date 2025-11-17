@@ -28,6 +28,7 @@
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/SujitYalmar/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SujitYalmar/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/SujitYalmar/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/SujitYalmar/DSA/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SujitYalmar/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -131,6 +132,7 @@
 | [0441-arranging-coins](https://github.com/SujitYalmar/DSA/tree/master/0441-arranging-coins) |
 | [1031-add-to-array-form-of-integer](https://github.com/SujitYalmar/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SujitYalmar/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Simulation
 |  |
 | ------- |
