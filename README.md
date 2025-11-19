@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/SujitYalmar/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SujitYalmar/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/SujitYalmar/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/SujitYalmar/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SujitYalmar/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/SujitYalmar/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/SujitYalmar/DSA/tree/master/0367-valid-perfect-square) |
