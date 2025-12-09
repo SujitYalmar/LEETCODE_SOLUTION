@@ -18,6 +18,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SujitYalmar/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SujitYalmar/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/SujitYalmar/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/SujitYalmar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SujitYalmar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@
 | [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SujitYalmar/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/SujitYalmar/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SujitYalmar/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SujitYalmar/DSA/tree/master/0189-rotate-array) |
@@ -102,6 +104,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SujitYalmar/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/SujitYalmar/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/SujitYalmar/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SujitYalmar/DSA/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
