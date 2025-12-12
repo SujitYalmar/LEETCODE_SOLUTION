@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SujitYalmar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0566-reshape-the-matrix](https://github.com/SujitYalmar/DSA/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
@@ -47,6 +48,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SujitYalmar/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/SujitYalmar/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SujitYalmar/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SujitYalmar/DSA/tree/master/0441-arranging-coins) |
@@ -77,6 +79,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SujitYalmar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SujitYalmar/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -97,6 +100,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SujitYalmar/DSA/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujitYalmar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -107,6 +111,7 @@
 | [0075-sort-colors](https://github.com/SujitYalmar/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/SujitYalmar/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SujitYalmar/DSA/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
 ## String
 |  |
