@@ -113,6 +113,7 @@
 | [0242-valid-anagram](https://github.com/SujitYalmar/DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
+| [1859-sorting-the-sentence](https://github.com/SujitYalmar/DSA/tree/master/1859-sorting-the-sentence) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0242-valid-anagram](https://github.com/SujitYalmar/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/SujitYalmar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
+| [1859-sorting-the-sentence](https://github.com/SujitYalmar/DSA/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
 |  |
 | ------- |
