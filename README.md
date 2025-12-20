@@ -29,6 +29,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0566-reshape-the-matrix](https://github.com/SujitYalmar/DSA/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/SujitYalmar/DSA/tree/master/0645-set-mismatch) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SujitYalmar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/SujitYalmar/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SujitYalmar/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -52,6 +53,7 @@
 | [0367-valid-perfect-square](https://github.com/SujitYalmar/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SujitYalmar/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SujitYalmar/DSA/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SujitYalmar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
