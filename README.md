@@ -36,6 +36,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SujitYalmar/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/SujitYalmar/DSA/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/SujitYalmar/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1833-find-the-highest-altitude](https://github.com/SujitYalmar/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/SujitYalmar/DSA/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SujitYalmar/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -129,6 +130,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/SujitYalmar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
 | [1528-shuffle-string](https://github.com/SujitYalmar/DSA/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/SujitYalmar/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/SujitYalmar/DSA/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
 |  |
