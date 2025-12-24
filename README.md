@@ -33,6 +33,7 @@
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/SujitYalmar/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SujitYalmar/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SujitYalmar/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SujitYalmar/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/SujitYalmar/DSA/tree/master/1528-shuffle-string) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SujitYalmar/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SujitYalmar/DSA/tree/master/0042-trapping-rain-water) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SujitYalmar/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -227,4 +229,8 @@
 |  |
 | ------- |
 | [1983-maximum-population-year](https://github.com/SujitYalmar/DSA/tree/master/1983-maximum-population-year) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SujitYalmar/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
