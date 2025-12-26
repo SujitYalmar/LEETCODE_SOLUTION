@@ -186,6 +186,7 @@
 | [1258-article-views-i](https://github.com/SujitYalmar/DSA/tree/master/1258-article-views-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/SujitYalmar/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/SujitYalmar/DSA/tree/master/1317-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/SujitYalmar/DSA/tree/master/1321-restaurant-growth) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/SujitYalmar/DSA/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/SujitYalmar/DSA/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/SujitYalmar/DSA/tree/master/1341-movie-rating) |
