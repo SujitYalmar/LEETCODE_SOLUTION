@@ -86,6 +86,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SujitYalmar/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SujitYalmar/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
+| [1768-merge-strings-alternately](https://github.com/SujitYalmar/DSA/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0647-palindromic-substrings](https://github.com/SujitYalmar/DSA/tree/master/0647-palindromic-substrings) |
 | [1108-defanging-an-ip-address](https://github.com/SujitYalmar/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/SujitYalmar/DSA/tree/master/1528-shuffle-string) |
+| [1768-merge-strings-alternately](https://github.com/SujitYalmar/DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/SujitYalmar/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/SujitYalmar/DSA/tree/master/1859-sorting-the-sentence) |
 ## Sliding Window
