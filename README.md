@@ -198,6 +198,7 @@
 | [1390-average-selling-price](https://github.com/SujitYalmar/DSA/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/SujitYalmar/DSA/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/SujitYalmar/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1527-patients-with-a-condition](https://github.com/SujitYalmar/DSA/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/SujitYalmar/DSA/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/SujitYalmar/DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/SujitYalmar/DSA/tree/master/1773-percentage-of-users-attended-a-contest) |
