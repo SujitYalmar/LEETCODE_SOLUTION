@@ -34,6 +34,7 @@
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/SujitYalmar/DSA/tree/master/1031-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SujitYalmar/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SujitYalmar/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SujitYalmar/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SujitYalmar/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SujitYalmar/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -59,6 +60,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/SujitYalmar/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/SujitYalmar/DSA/tree/master/0441-arranging-coins) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SujitYalmar/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SujitYalmar/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SujitYalmar/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/SujitYalmar/DSA/tree/master/0566-reshape-the-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/SujitYalmar/DSA/tree/master/0921-spiral-matrix-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SujitYalmar/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SujitYalmar/DSA/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Prefix Sum
 |  |
