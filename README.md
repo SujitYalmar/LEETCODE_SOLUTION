@@ -152,6 +152,7 @@
 | [1768-merge-strings-alternately](https://github.com/SujitYalmar/DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/SujitYalmar/DSA/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/SujitYalmar/DSA/tree/master/1859-sorting-the-sentence) |
+| [3798-largest-even-number](https://github.com/SujitYalmar/DSA/tree/master/3798-largest-even-number) |
 ## Sliding Window
 |  |
 | ------- |
